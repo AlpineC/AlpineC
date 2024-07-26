@@ -1,7 +1,7 @@
 - Hi, I’m @NexusHawk373
 - I’m interested in developing operating systems 
 - I’m currently learning C++,x86_64 assembly
--  If anyone is willing to help me with my current project NexusOs please contact me on discord.
+-  If anyone is willing to help me with my current projects please contact me on discord.
 - Discord: NexusHawk373#5301
 
 <!---
