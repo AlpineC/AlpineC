@@ -1,6 +1,6 @@
 - Hi, I’m @NexusHawk373
 - I’m interested in developing operating systems & compilers
-- I’m currently learning C++,x86_64 assembly
+- I’m currently learning C++ & x86_64 assembly
 -  If anyone is willing to help me with my current projects please contact me on discord.
 - Discord: NexusHawk373#5301
 
